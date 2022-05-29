@@ -1,0 +1,9 @@
+[submodule "clkd"]
+	path = clkd
+	url = https://github.com/MinhDucBui/clkd.git
+[submodule "trident"]
+	path = trident
+	url = https://github.com/MinhDucBui/trident
+[submodule "trident-xtreme"]
+	path = trident-xtreme
+	url = https://github.com/MinhDucBui/trident-xtreme.git
