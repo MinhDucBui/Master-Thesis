@@ -19,7 +19,7 @@ This Github repository carries the code used throughout the thesis. The code is 
 
 - **[Trident (trident)](https://github.com/MinhDucBui/trident):** This project is a generic framework to train and evaluate (deep learning) models. We adjusted the implementation from the original [trident](https://github.com/fdschmidt93/trident) to accompany our needs of multiple students that interact with each other during training. \medskip
 
-- **[Trident-Xtreme (trident-xtreme)](https://github.com/MinhDucBui/trident-xtreme).** Trident-Xtreme is a project implementing a modular deep learning stack to train and evaluate models with Trident. We adjust the implementation from the original [trident](https://github.com/fdschmidt93/trident-xtreme) to allow us to train and evaluate our students on XNLI, XCOPA, NER, and the retrieval task. 
+- **[Trident-Xtreme (trident-xtreme)](https://github.com/MinhDucBui/trident-xtreme).** Trident-Xtreme is a project implementing a modular deep learning stack to train and evaluate models with Trident. We adjust the implementation from the original [trident-xtreme](https://github.com/fdschmidt93/trident-xtreme) to allow us to train and evaluate our students on XNLI, XCOPA, NER, and the retrieval task. 
 
 
 ## 🚀&nbsp;&nbsp;Project Pipeline
