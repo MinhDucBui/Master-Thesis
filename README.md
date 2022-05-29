@@ -13,7 +13,7 @@
 ## 📌&nbsp;&nbsp;Introduction
 This thesis explores how one can alleviate the issues of big multilingual transformers for low-resource languages, especially the curse of multilinguality. Specifically, our two main objectives are: (1) Improving the cross-lingual alignment for low-resource languages and (2) improving cross-lingual downstream task performance for low-resource languages. We utilize Knowledge Distillation (KD) by distilling the multilingual model into language-specialized (also called monolingual) language models.
 
-This Github repository carries the code used throughout the thesis. The code is split into three projects: (1) Cross-Lingual Knowledge Distillation, (2) Trident, and (3) Trident-Xtreme:
+This Github repository is a submodule carrying the code used throughout the thesis. This submodule is split into three projects: (1) Cross-Lingual Knowledge Distillation, (2) Trident, and (3) Trident-Xtreme:
 
 - **[Cross-Lingual Knowledge Distillation (clkd)](https://github.com/MinhDucBui/clkd):** This project contains all distillation done throughout the thesis. Furthermore, the project is set up to use any distillation loss easily, any number of students, and languages per student. The project also allows to change the teacher and student architecture and to choose between monolingual, bilingual, or multilingual distillation setup. Furthermore, we constructed config files for each distillation loss and each setup used in this thesis. Each hyperparameter can be adjusted by changing the respective config file.
 
