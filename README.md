@@ -21,6 +21,8 @@ This Github repository carries the code used throughout the thesis. The code is 
 
 - **[Trident-Xtreme (trident-xtreme)](https://github.com/MinhDucBui/trident-xtreme).** Trident-Xtreme is a project implementing a modular deep learning stack to train and evaluate models with Trident. We adjust the implementation from the original [trident-xtreme](https://github.com/fdschmidt93/trident-xtreme) to allow us to train and evaluate our students on XNLI, XCOPA, NER, and the retrieval task. 
 
+Notice that [Trident (trident)](https://github.com/MinhDucBui/trident) and [Trident-Xtreme (trident-xtreme)](https://github.com/MinhDucBui/trident-xtreme) are private repositories as both projects are ongoing and may be submitted to a conference later. Please contact [me](mailto:ducyaner@gmail.com) to get access to them.
+
 
 ## 🚀&nbsp;&nbsp;Project Pipeline
 
