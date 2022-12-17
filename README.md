@@ -10,6 +10,10 @@
 
 </div>
 
+## :page_facing_up:&nbsp;&nbsp;Thesis & Blog Post
+
+Download the thesis in PDF form [here](https://github.com/MinhDucBui/Master-Thesis/blob/main/Master_Thesis.pdf). You can also read the thesis in blog forms: [Main Article](https://minhducbui.github.io/distilling-multilingual/).
+
 ## 📌&nbsp;&nbsp;Introduction
 This thesis explores how one can alleviate the issues of big multilingual transformers for low-resource languages, especially the curse of multilinguality. Specifically, our two main objectives are: (1) Improving the cross-lingual alignment for low-resource languages and (2) improving cross-lingual downstream task performance for low-resource languages. We utilize Knowledge Distillation (KD) by distilling the multilingual model into language-specialized (also called monolingual) language models.
 
